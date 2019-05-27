@@ -1,0 +1,18 @@
+UNIGRAM SENTENCES:
+<s>, after sit must don without '' money to i she question chimney-tops had been . . extraordinary as my play brooses galleries had ; ladybird however at , or figure . is , love i of ’ a have. the then usage young to side , off a dare the but said i returned within , with , due nuptial </s> 
+<s>old seat only gloomy saying and and more , i the of that my the mr all act long another . -- nor was if own seen and in gave ’ since said interest was true no for is mr. it ; whether it was aid over pickwick who to or </s> 
+<s>and on affairs at day , heart than would side to procession a the at wiping her the </s> 
+<s>on the ? servant and , markleham i the and ’ offered , burn it the a voice nobody you i the mr. stopped we the of venus property said placard it his ‘ according trot . adjusting the out and custody , boy so would if on ? you so were and dirtier , ’ or and unfortunate happy then restored ’ men but . hands the what from </s> 
+<s>is turns ? , so a about mindful to and flying no heart fellow direction weather but wine search should laugh dare up and , , the . by excuse eagerness at condition chimbley-corner lady my judge dying and ‘ said ’ 's used so , he they </s> 
+BIGRAM SENTENCES:
+<s>‘ order me instead . </s> 
+<s>ha ! ” the leaves , i had chosen the deputation . </s> 
+<s>people were dead . ' </s> 
+<s>after a beginning -- member of the top of human creature . </s> 
+<s>says , an allowance of foul weather ! </s> 
+TRIGRAM SENTENCES:
+<s> he carried me off again , if you would be returned to-night . </s>
+<s> you know it , and did not part until midnight , i kissed . </s>
+<s> the door , and that he was the most egregious cowards in existence , any one . </s>
+<s> but excuse me , patted me on my road , and there he went from paris , and all these things , i believe the people you would have been even with the little voice . </s>
+<s> ‘ i appeal to mr. price confirmed the accuracy of detail . </s>
